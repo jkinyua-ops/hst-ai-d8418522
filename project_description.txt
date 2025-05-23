@@ -1,0 +1,1 @@
+Simple blazor server app for users to view events, make bookings and pay via Stripe
